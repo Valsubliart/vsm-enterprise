@@ -1,0 +1,14 @@
+Vou facilitar ainda mais
+
+A partir de agora, vou enviar comandos assim:
+
+Passo 1
+git add TESTE_GITHUB.md
+Passo 2
+git status
+Passo 3
+git commit -m "test(github): valida comunicação"
+Passo 4
+git push origin main
+
+Sempre copie apenas o conteúdo dentro da caixa de código.
