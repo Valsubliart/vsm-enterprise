@@ -51,3 +51,28 @@ Primeiros módulos:
 3. Settings
    - Configurações gerais
    - Preferências do sistema
+---
+
+# VSM-0006 - Identity Domain
+
+Data: 2026-07-11
+
+Status: CONCLUÍDO
+
+Implementado:
+
+- User Entity
+- Email Value Object
+- UserRepositoryInterface
+
+Objetivo:
+
+Criar o núcleo de identidade independente do framework.
+
+Próxima etapa:
+
+VSM-0007 - Application Layer
+
+Primeiro caso de uso:
+
+- CreateUserUseCase
