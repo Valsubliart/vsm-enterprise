@@ -76,3 +76,33 @@ VSM-0007 - Application Layer
 Primeiro caso de uso:
 
 - CreateUserUseCase
+---
+
+# VSM-0007 - Application Layer
+
+Data: 2026-07-11
+
+Status: CONCLUÍDO
+
+Implementado:
+
+- Estrutura da camada Application.
+- Diretório de casos de uso.
+- CreateUserUseCase.
+- Integração com Domain Identity.
+
+Fluxo criado:
+
+Presentation
+    ↓
+Application
+    ↓
+Domain
+
+Próxima etapa:
+
+VSM-0008 - Infrastructure Layer
+
+Objetivo:
+
+Criar persistência dos usuários no banco MariaDB.
